@@ -26,10 +26,4 @@ I am solving LeetCode problems using Python and C and documenting my progress he
 ## Languages
 
 - Python
-- Cs Duplicate
-- [ ] Valid Anagram
-- [ ] Valid Palindrome
-
-## Language
-
-- Python
+- C
