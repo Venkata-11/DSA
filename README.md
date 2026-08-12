@@ -10,11 +10,13 @@ I am solving LeetCode problems using Python and C and documenting my progress he
 |---|---------|------------|-------|----------|
 | 1 | Two Sum | Easy | Array | [Solution](Arrays/TwoSum.py) |
 | 203 | Remove Linked List Elements | Easy | Linked List | [Solution](LinkedList/RemoveLinkedListElements.c) |
+| 876 | Middle of the Linked List | Easy | Linked List | [Solution](LinkedList/MiddleOfTheLinkedList.c) |
 
 ## Progress Tracker
 
 - [x] Two Sum
 - [x] Remove Linked List Elements
+- [x] Middle of the Linked List
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Valid Anagram
