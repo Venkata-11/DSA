@@ -9,6 +9,7 @@ I am solving LeetCode problems using Python and C and documenting my progress he
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|----------|
 | 1 | Two Sum | Easy | Array | [Solution](Arrays/TwoSum.py) |
+| 2 | Add Two Numbers | Medium | Linked List | [Solution](LinkedList/AddTwoNumbers.c) |
 | 21 | Merge Two Sorted Lists | Easy | Linked List | [Solution](LinkedList/MergeTwoSortedLists.c) |
 | 26 | Remove Duplicates from Sorted Array | Easy | Array | [Solution](Arrays/RemoveDuplicatesFromSortedArray.py) |
 | 125 | Valid Palindrome | Easy | String | [Solution](Arrays/ValidPalindrome.py) |
@@ -23,7 +24,7 @@ I am solving LeetCode problems using Python and C and documenting my progress he
 - [x] Remove Linked List Elements
 - [x] Middle of the Linked List
 - [x] Merge Two Sorted Lists
-- [ ] Best Time to Buy and Sell Stock
+- [x] Add Two Numbers
 - [ ] Contains Duplicate
 - [ ] Valid Anagram
 - [ ] Valid Parentheses
